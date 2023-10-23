@@ -1,0 +1,13 @@
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\bin\Debug\Kod.exe.config
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\bin\Debug\Kod.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\bin\Debug\Kod.pdb
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.Form1.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.Properties.Resources.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.pdb
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.Form2.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\TaskFormKod\Kod\obj\Debug\Kod.Form3.resources
