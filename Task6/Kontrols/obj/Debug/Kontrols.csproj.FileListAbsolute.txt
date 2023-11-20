@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\bin\Debug\Kontrols.exe.config
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\bin\Debug\Kontrols.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\bin\Debug\Kontrols.pdb
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.Form1.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.Properties.Resources.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.UserControl1.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.UserControl2.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.UserControl3.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task6\Kontrols\obj\Debug\Kontrols.pdb
