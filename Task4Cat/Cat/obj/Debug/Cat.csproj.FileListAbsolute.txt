@@ -1,0 +1,24 @@
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\bin\Debug\Cat.exe.config
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\bin\Debug\Cat.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\bin\Debug\Cat.pdb
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\obj\Debug\Cat.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\obj\Debug\Cat.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\obj\Debug\Cat.Form1.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\obj\Debug\Cat.Properties.Resources.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\obj\Debug\Cat.SecondForm.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\obj\Debug\Cat.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\obj\Debug\Cat.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\obj\Debug\Cat.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\Task4Cat\Cat\obj\Debug\Cat.pdb
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\bin\Debug\Cat.exe.config
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\bin\Debug\Cat.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\bin\Debug\Cat.pdb
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\obj\Debug\Cat.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\obj\Debug\Cat.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\obj\Debug\Cat.Form1.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\obj\Debug\Cat.Properties.Resources.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\obj\Debug\Cat.SecondForm.resources
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\obj\Debug\Cat.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\obj\Debug\Cat.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\obj\Debug\Cat.exe
+C:\Users\STUDENTS-1409-3\Desktop\tasks 12 a\12 aK\Task4Cat\Cat\obj\Debug\Cat.pdb
