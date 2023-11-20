@@ -1,0 +1,11 @@
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\bin\Debug\RB.exe.config
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\bin\Debug\RB.exe
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\bin\Debug\RB.pdb
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\obj\Debug\RB.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\obj\Debug\RB.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\obj\Debug\RB.Form1.resources
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\obj\Debug\RB.Properties.Resources.resources
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\obj\Debug\RB.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\obj\Debug\RB.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\obj\Debug\RB.exe
+C:\Users\STUDENTS-1409-9\Desktop\12a\Task5RadioButton\RB\obj\Debug\RB.pdb
