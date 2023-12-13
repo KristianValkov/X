@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Task7SumAndSortList\bin\Debug\Task7SumAndSortList.exe.config
+C:\Users\Admin\Desktop\Task7SumAndSortList\bin\Debug\Task7SumAndSortList.exe
+C:\Users\Admin\Desktop\Task7SumAndSortList\bin\Debug\Task7SumAndSortList.pdb
+C:\Users\Admin\Desktop\Task7SumAndSortList\obj\Debug\Task7SumAndSortList.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Task7SumAndSortList\obj\Debug\Task7SumAndSortList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Task7SumAndSortList\obj\Debug\Task7SumAndSortList.Form1.resources
+C:\Users\Admin\Desktop\Task7SumAndSortList\obj\Debug\Task7SumAndSortList.Properties.Resources.resources
+C:\Users\Admin\Desktop\Task7SumAndSortList\obj\Debug\Task7SumAndSortList.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Task7SumAndSortList\obj\Debug\Task7SumAndSortList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Task7SumAndSortList\obj\Debug\Task7SumAndSortList.exe
+C:\Users\Admin\Desktop\Task7SumAndSortList\obj\Debug\Task7SumAndSortList.pdb
